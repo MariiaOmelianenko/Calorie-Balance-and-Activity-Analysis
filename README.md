@@ -35,7 +35,7 @@
 Споживання калорій зростає у вихідні (субота–неділя), що може пояснювати збільшення кількості профіцитних днів.
 
 
-**English version**
+*English version*
 
 # Calorie Balance and Activity Analysis
 
